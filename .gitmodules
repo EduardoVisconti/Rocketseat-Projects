@@ -1,0 +1,12 @@
+[submodule "mentorship-review"]
+	path = mentorship-review
+	url = https://github.com/EduardoVisconti/mentorship-review
+[submodule "NLW"]
+	path = NLW
+	url = https://github.com/EduardoVisconti/NLW
+[submodule "mentoring-schedule-form"]
+	path = mentoring-schedule-form
+	url = https://github.com/EduardoVisconti/mentoring-schedule-form
+[submodule "event-form"]
+	path = event-form
+	url = https://github.com/EduardoVisconti/event-form
